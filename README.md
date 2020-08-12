@@ -8,6 +8,7 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 
 - [jmablog](https://jmablog.com): my personal blog site
 - [Parkour Clinic](https://parkour.clinic): free online sports injury therapy advice for parkour athletes
+- [SquatCam](https://squatcam.vercel.app): real time biomechanical feedback for squatting from a webcam
 
 ### 📝 Latest blog posts
 
