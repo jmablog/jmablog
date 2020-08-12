@@ -4,6 +4,11 @@ My name is James. I'm a sports [therapist](https://jmablog.com/tags/sports-thera
 
 I also run [Parkour Clinic](https://parkour.clinic), providing free online sports injury therapy advice to parkour athletes.
 
+### 🔗 Sites
+
+- [jmablog](https://jmablog.com): my personal blog site
+- [Parkour Clinic](https://parkour.clinic): free online sports injury therapy advice for parkour athletes
+
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
