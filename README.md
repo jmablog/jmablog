@@ -16,9 +16,4 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Correlation Between Some Common Physiological Variables in Parkour Vaulting](https://jmablog.com/post/parkour-vault-correlation/)
-- [Parkour Clinic Launches!](https://jmablog.com/post/parkour-clinic-launch/)
-- [Resultant Forces in Parkour Vaults](https://jmablog.com/post/resultant-forces/)
-- [Dissertation summary slides](https://jmablog.com/post/pkvs-slides/)
-- [A facsimile of an electrotherapy machine](https://jmablog.com/post/electrotherapy-app/)
 <!-- BLOG-POST-LIST:END -->
