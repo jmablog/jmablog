@@ -16,9 +16,9 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [tinieR Update](https://jmablog.com/post/tinier-update/)
 - [tinieR 0.1.0](https://jmablog.com/post/tinier-release/)
 - [Correlation Between Some Common Physiological Variables in Parkour Vaulting](https://jmablog.com/post/parkour-vault-correlation/)
 - [Parkour Clinic Launches!](https://jmablog.com/post/parkour-clinic-launch/)
 - [Resultant Forces in Parkour Vaults](https://jmablog.com/post/resultant-forces/)
-- [Dissertation summary slides](https://jmablog.com/post/pkvs-slides/)
 <!-- BLOG-POST-LIST:END -->
