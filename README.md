@@ -16,9 +16,9 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How joyful were the Friends main characters?](https://jmablog.com/post/tt-friends/)
 - [Hugo Clinic Notes Theme](https://jmablog.com/post/hugo-clinic-notes/)
 - [tinieR Update](https://jmablog.com/post/tinier-update/)
 - [tinieR 0.1.0](https://jmablog.com/post/tinier-release/)
 - [Correlation Between Some Common Physiological Variables in Parkour Vaulting](https://jmablog.com/post/parkour-vault-correlation/)
-- [Parkour Clinic Launches!](https://jmablog.com/post/parkour-clinic-launch/)
 <!-- BLOG-POST-LIST:END -->
