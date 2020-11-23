@@ -16,9 +16,9 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GNU Terry Pratchett with Netlify and Hugo](https://jmablog.com/post/gnuterrypratchett/)
 - [Bookdown, Not Bookout](https://jmablog.com/post/bookdown-not-bookout/)
 - [How joyful were the Friends main characters?](https://jmablog.com/post/tt-friends/)
 - [Hugo Clinic Notes Theme](https://jmablog.com/post/hugo-clinic-notes/)
 - [tinieR Update](https://jmablog.com/post/tinier-update/)
-- [tinieR 0.1.0](https://jmablog.com/post/tinier-release/)
 <!-- BLOG-POST-LIST:END -->
