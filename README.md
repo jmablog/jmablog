@@ -16,9 +16,9 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [tinieR 0.4.1](https://jmablog.com/post/tinier-0.4.1/)
 - [Pandoc filters in Bookdown](https://jmablog.com/post/pandoc-filters/)
 - [Scrivdown](https://jmablog.com/post/scrivdown/)
 - [GNU Terry Pratchett with Netlify and Hugo](https://jmablog.com/post/gnuterrypratchett/)
 - [Bookdown, Not Bookout](https://jmablog.com/post/bookdown-not-bookout/)
-- [How joyful were the Friends main characters?](https://jmablog.com/post/tt-friends/)
 <!-- BLOG-POST-LIST:END -->
