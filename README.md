@@ -16,9 +16,9 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Expertise of Parkour Coaches to Understand Parkour Movement: The Kong Vault](https://jmablog.com/research/mres/)
 - [Mario Kart 64 World Records](https://jmablog.com/post/mario-kart/)
 - [The Problem with Using Youtube Clips for Posture Analysis](https://jmablog.com/post/posture-analysis/)
 - [tinieR 0.4.1](https://jmablog.com/post/tinier-0.4.1/)
 - [Pandoc filters in Bookdown](https://jmablog.com/post/pandoc-filters/)
-- [Scrivdown](https://jmablog.com/post/scrivdown/)
 <!-- BLOG-POST-LIST:END -->
