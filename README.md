@@ -18,9 +18,9 @@ I also run [Parkour Clinic](https://parkour.clinic), providing free online sport
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quarto templates for lecturers and educators](https://jmablog.com/post/quarto-templates/)
 - [Generating Pretty Instagram Quote Images in R](https://jmablog.com/post/generating-instagram-quote-images-in-r/)
 - [Using the Expertise of Parkour Coaches to Understand Parkour Movement: The Kong Vault](https://jmablog.com/research/mres/)
 - [Mario Kart 64 World Records](https://jmablog.com/post/mario-kart/)
 - [The Problem with Using Youtube Clips for Posture Analysis](https://jmablog.com/post/posture-analysis/)
-- [tinieR 0.4.1](https://jmablog.com/post/tinier-0.4.1/)
 <!-- BLOG-POST-LIST:END -->
