@@ -15,9 +15,9 @@ My name is James. I'm a data professional, prior sports [therapist](https://jmab
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What was the best year for a saxophone lover to be listening to the Billboard Top 100?](https://jmablog.com/post/numberones/)
 - [Some Animated Joins](https://jmablog.com/post/some-animated-joins/)
 - [Tinier 0.5.0](https://jmablog.com/post/tinier-0.5.0/)
 - [How To Spot Bad Coaching Advice Online](https://jmablog.com/post/bad-coaching-advice/)
 - [Parkour, Perpetual Challenge, and Burnout](https://jmablog.com/post/parkour-challenge-burnout/)
-- [Quarto templates for lecturers and educators](https://jmablog.com/post/quarto-templates/)
 <!-- BLOG-POST-LIST:END -->
